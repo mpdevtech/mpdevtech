@@ -1,4 +1,6 @@
-# Hi, I'm Marcos Paulo here! ![hi](https://user-images.githubusercontent.com/87684131/156899883-6fd22ac8-84e7-449a-a61c-91878558ee9c.gif)
+# Hi, I'm Marcos Paulo here! 
+
+![image]({https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white})
 
 
 

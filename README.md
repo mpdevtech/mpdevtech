@@ -1,4 +1,9 @@
 # Hi, I'm Marcos Paulo here!
+- 🔭 I'm working with Frontend
+- 🌱 I’m currently learning Javascript
+- ⚡ Fun fact: I'm migrating from graphic design career to web development
+<!-- 
+I'm 32 years old and I entered the tech world in 2021. I'm learning web development (Front-end), and I'm already starting to work. My current skills are: HTML5 and CSS3, BOOTSTRAP 5, and studying JAVASCRIPT. -->
 
 # 🛠  Tech Stack
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,7 +14,7 @@
 
 
 
-<!--
+<!-- 
 **mpdevtech/mpdevtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->

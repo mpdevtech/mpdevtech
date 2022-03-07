@@ -1,6 +1,5 @@
 # Hi, I'm Marcos Paulo here!
 - 🔭 I'm working with Frontend
-- 🌱 I’m currently learning Javascript
 - ⚡ Fun fact: I'm migrating from graphic design career to web development
 <!-- 
 I'm 32 years old and I entered the tech world in 2021. I'm learning web development (Front-end), and I'm already starting to work. My current skills are: HTML5 and CSS3, BOOTSTRAP 5, and studying JAVASCRIPT. -->

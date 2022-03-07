@@ -1,4 +1,4 @@
-# Hi, I'm Marcos Paulo here!
+# Hi, Marcos Paulo here!
 - 🔭 I'm working with Frontend
 - ⚡ Fun fact: I'm migrating from graphic design career to web development
 <!-- 

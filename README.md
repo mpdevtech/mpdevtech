@@ -1,8 +1,36 @@
-# Hi, Marcos Paulo here!
-- 🔭 I'm working with Frontend
-- ⚡ Fun fact: I'm migrating from graphic design career to web development
+# Olá, eu sou Marcos Paulo 👋
+
+### Front-end Developer & UI/UX Designer
+
+Designer e desenvolvedor front-end, criando interfaces e experiências digitais
+com foco em usabilidade, estética e funcionalidade.
+
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+## 🎨 Design & UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+UI Design • UX Design • Prototipação • Design Systems
+
+## 📌 Projetos
+
+Estou desenvolvendo projetos voltados para aplicações web,
+interfaces digitais e soluções para problemas reais.
+
+## 📫 Contato
+
+- LinkedIn
+- Portfólio
 <!-- 
 I'm 32 years old and I entered the tech world in 2021. I'm learning web development (Front-end), and I'm already starting to work. My current skills are: HTML5 and CSS3, BOOTSTRAP 5, and studying JAVASCRIPT. -->
+<!-- 
 
 # 🛠  Skills
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +45,6 @@ I'm 32 years old and I entered the tech world in 2021. I'm learning web developm
 
 
 
-<!-- 
 **mpdevtech/mpdevtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -26,7 +26,7 @@ I aim to combine **design and technology** to create digital products that are v
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
-**HTML • CSS • JavaScript**
+**HTML • CSS • JavaScript • Git • Github**
 
 ---
 

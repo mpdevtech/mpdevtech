@@ -45,11 +45,9 @@ Busco unir **design e tecnologia** para desenvolver produtos digitais que sejam 
 ## 📚 Atualmente estudando
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,react-native,ts,nextjs" />
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
+
 
 **React • React Native • Next.js**
 

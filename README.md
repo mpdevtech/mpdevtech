@@ -4,10 +4,6 @@
   Front-end Developer • UI/UX Designer
 </h3>
 
-<p>
-  Turning ideas into functional, intuitive, and visually well-crafted interfaces.
-</p>
-
 ---
 
 ## 👨‍💻 About Me

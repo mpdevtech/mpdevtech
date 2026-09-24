@@ -1,36 +1,46 @@
-<h1>Olá, eu sou Marcos Paulo 👋</h1>
+<h1>Hi, I'm Marcos Paulo 👋</h1>
 
 <h3>
   Front-end Developer • UI/UX Designer
 </h3>
 
 <p>
-  Transformando ideias em interfaces funcionais, intuitivas e visualmente bem construídas.
+  Turning ideas into functional, intuitive, and visually well-crafted interfaces.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou designer e desenvolvedor front-end, com experiência em criação visual, interfaces e experiência do usuário.
+I'm a designer and front-end developer with experience in visual design, interface design, and user experience.
 
-Busco unir **design e tecnologia** para desenvolver produtos digitais que sejam visualmente consistentes, intuitivos e funcionais.
+I aim to combine **design and technology** to create digital products that are visually consistent, intuitive, and functional.
 
-- 🎨 Experiência com Design Gráfico e UI/UX
-- 💻 Desenvolvimento de interfaces para Web
-- 🧠 Interesse em experiência do usuário e produtos digitais
-- 🚀 Desenvolvendo projetos e aprofundando meus conhecimentos em Front-end
-- 📍 Brasil 🇧🇷
+- 🎨 Experience in Graphic Design and UI/UX
+- 💻 Web interface development
+- 🧠 Interested in user experience and digital products
+- 🚀 Building projects and continuously improving my Front-end skills
+- 📍 Brazil 🇧🇷
 
 ---
 
 ## 🚀 Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
-**HTML • CSS • JavaScript • TypeScript • React • React Native • Next.js • Tailwind CSS**
+**HTML • CSS • JavaScript**
+
+---
+
+## 🚀 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />
+</p>
+
+**TypeScript • React • React Native • Next.js • Tailwind CSS**
 
 ---
 

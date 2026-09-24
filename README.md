@@ -47,6 +47,11 @@ Busco unir **design e tecnologia** para desenvolver produtos digitais que sejam 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,git,github" />
+</p>
+
+**React • React Native • Next.js**
 
 - React
 - TypeScript

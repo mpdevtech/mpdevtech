@@ -45,16 +45,10 @@ Busco unir **design e tecnologia** para desenvolver produtos digitais que sejam 
 ## 📚 Atualmente estudando
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,react-native,ts,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-
-**React • React Native • Next.js**
-
-- React
-- TypeScript
-- Desenvolvimento de aplicações Web
-- Boas práticas de Front-end
+**React • React Native • Next.js • Tailwind CSS**
 
 ---
 

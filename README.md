@@ -1,10 +1,10 @@
-<h1 align="center">Olá, eu sou Marcos Paulo 👋</h1>
+<h1>Olá, eu sou Marcos Paulo 👋</h1>
 
-<h3 align="center">
+<h3>
   Front-end Developer • UI/UX Designer
 </h3>
 
-<p align="center">
+<p>
   Transformando ideias em interfaces funcionais, intuitivas e visualmente bem construídas.
 </p>
 

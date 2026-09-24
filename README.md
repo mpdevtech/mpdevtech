@@ -24,11 +24,13 @@ Busco unir **design e tecnologia** para desenvolver produtos digitais que sejam 
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github" />
 </p>
+
+**HTML • CSS • JavaScript • TypeScript • React • React Native • Next.js • Tailwind CSS**
 
 ---
 
@@ -38,26 +40,14 @@ Busco unir **design e tecnologia** para desenvolver produtos digitais que sejam 
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
-**UI Design • UX Design • Prototipação • Design Systems • Identidade Visual**
+**UI Design • UX Design • Prototyping • Design Systems • Brand Identity**
 
 ---
 
-## 📚 Atualmente estudando
+## 🤖 AI & Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Assisted%20Development-4B5563?style=for-the-badge" />
 </p>
-
-**React • React Native • Next.js • Tailwind CSS**
-
----
-
-## 💡 Áreas de interesse
-
-```text
-Front-end Development
-UI/UX Design
-Web Design
-Design Systems
-Produtos Digitais
-Experiência do Usuário
